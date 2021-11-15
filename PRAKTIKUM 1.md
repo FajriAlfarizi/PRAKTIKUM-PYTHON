@@ -29,13 +29,17 @@ PRAKTIKUM 1
 ![PRK 1 5 2](https://user-images.githubusercontent.com/92989089/141747139-af2dde29-55d6-4ceb-8838-ff8dcff21b42.png)
 
 5. Program gaji pegawai
-  - Source code
+  - source code
 
 ![PRK 1 6 1](https://user-images.githubusercontent.com/92989089/141769751-25cf8536-f01a-4891-8f74-82471e467895.png)
+
 
   - Input output
 
 ![PRK 1 6 2](https://user-images.githubusercontent.com/92989089/141769963-5d3b656d-d6e7-4c05-a443-748f0e371e34.png)
 
+6. program nilai rupiah ke pecahan
+
+![PRK 1 7](https://user-images.githubusercontent.com/92989089/141807318-9c4216f3-8557-4b39-87e1-c27ab5234858.png)
 
 
